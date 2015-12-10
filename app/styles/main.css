@@ -288,7 +288,7 @@ h3.sub_heading span {
 }
 .social {
   text-align: center;
-  margin: 40px;
+  /*margin-bottom: 10px;*/
 }
 .jumbotron a {
   color: mistyrose;
@@ -455,7 +455,7 @@ h3.sub_heading span {
   max-height: 150px;
 }
 .first_section {
-  margin-top: 70px;
+  margin-top: 10px;
 }
 .genre {
   width: 100%;
