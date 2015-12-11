@@ -89,7 +89,7 @@ body {
 }
 .jumbotron h1 {
   font-weight: 700;
-  font-size: 65px;
+  font-size: 40px;
   margin-top: 100px;
 }
 #title_text h1 {
@@ -373,6 +373,7 @@ h3.sub_heading span {
   .heading:after {
     bottom: -10%;
   }
+
   /*#all_artists_genre {
     width: 100%;
     /*margin-left: -20%;*/
@@ -399,6 +400,9 @@ h3.sub_heading span {
 @media screen and (min-width: 960px) {
   .container {
     max-width: 730px;
+  }
+  .sign-up{
+    width:50% !important;
   }
   /* Remove the padding we set earlier */
   .header, .marketing, .footer {
@@ -525,7 +529,7 @@ h1 a:hover{
 }
 
 .sign-up{
-  width:50%;
+  width:80%;
 }
 
 .second_section{
