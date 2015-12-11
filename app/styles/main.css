@@ -403,6 +403,9 @@ h3.sub_heading span {
   h1.heading span{
     line-height: 40px;
   }
+.jumbotron p {
+  font-size: 17px;
+}
 }
 @media screen and (min-width: 960px) {
   .container {
