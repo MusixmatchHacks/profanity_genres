@@ -425,8 +425,8 @@ h3.sub_heading span {
     bottom: -50%;
   }
   img {
-    max-width: 150%;
-    margin-left: -23.5%;
+    max-width: 100%;
+    /*margin-left: -23.5%;*/
   }
   .small-img {
     width: 100%;
