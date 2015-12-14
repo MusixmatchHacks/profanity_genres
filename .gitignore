@@ -2,4 +2,7 @@ node_modules
 .tmp
 bower_components
 orig_img
+org_images
+
+
 
